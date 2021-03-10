@@ -1,11 +1,16 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Aida Rahim # your name (or website title) here
+logo: "/images/67499391_10101987901461338_8368560084799717376_n.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Scientist | Machine Learning Engineer 
   <br><br>
-  Second description 
+  Data scientist with an engineering background that spans a diverse range of industries, 
+  from cell biology to fiber optic sensing to composites for aerospace and automotive. 
+  With my strong analytical and quantitative background, I thrive in high pressure environments 
+  where problem solving, innovation, and attention to detail are valued. 
+  I am skilled at extracting and distilling complex information into digestible bytes 
+  that help inform business and technical solutions. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/aidarahim/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
