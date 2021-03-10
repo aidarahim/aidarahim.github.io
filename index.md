@@ -11,7 +11,7 @@
 
 ### Hackerthon
 
-[Box Office Revenue Prediction](https://github.com/aidarahim/Data_Science_Portfolio/tree/main/Hackathon%20-%20Box%20Office%20Revenue%20Prediction)
+[Box Office Revenue Prediction](https://github.com/aidarahim/Hackathon_Box_Office_Revene)
 
 
 <img src="images/BoxOfficePreds.png"/>
