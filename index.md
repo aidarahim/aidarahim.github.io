@@ -4,8 +4,8 @@
 
 ### NLP Classification 
 
-[Retraining ML Model]('https://github.com/aidarahim/Data_Science_Portfolio/tree/main/Classification_Model_Retraining')
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Retraining ML Model](https://github.com/aidarahim/Data_Science_Portfolio/tree/main/Classification_Model_Retraining)
+<img src="images/Word_Cloud_both_compress.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
