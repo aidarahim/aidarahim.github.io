@@ -4,7 +4,7 @@
 
 ### NLP Classification 
 
-[Retraining ML Model](https://github.com/aidarahim/Classification_Model_Retraining/tree/main/Classification_Model_Retraining)
+[When to Retrain ML Model?](https://github.com/aidarahim/Classification_Model_Retraining/tree/main/Classification_Model_Retraining)
 <img src="images/Word_Cloud_both_compress.png"/>
 
 ---
