@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### NLP Classification 
 
-[Project 1 Title](/sample_page)
+[Retraining ML Model]('https://github.com/aidarahim/Data_Science_Portfolio/tree/main/Classification_Model_Retraining')
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
