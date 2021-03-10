@@ -8,8 +8,11 @@
 <img src="images/Word_Cloud_both_compress.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Hackerthon
+
+[Box Office Revenue Prediction](https://github.com/aidarahim/Data_Science_Portfolio/tree/main/Hackathon%20-%20Box%20Office%20Revenue%20Prediction)
+<img src="images/BoxOfficePreds.png>
 
 ---
 [Project 3 Title](http://example.com/)
