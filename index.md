@@ -9,6 +9,14 @@
 
 ---
 
+### Supporting Civic Duty
+
+[Predicting Violence at Protests](https://github.com/aidarahim/Predict_Protest_Violence)
+
+<img src="images/Protest_Art.png"/>
+
+---
+
 ### Hackerthon
 
 [Box Office Revenue Prediction](https://github.com/aidarahim/Hackathon_Box_Office_Revene)
@@ -17,14 +25,6 @@
 <img src="images/BoxOfficePreds.png"/>
 
 ---
-
-### Supporting Civic Duty
-
-[Predicting Violence at Protests](https://github.com/aidarahim/Predict_Protest_Violence)
-
----
-
-
 
 
 ---
