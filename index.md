@@ -18,6 +18,10 @@
 
 ---
 
+### Supporting Civic Duty
+
+[Predicting Violence at Protests](https://github.com/aidarahim/Predict_Protest_Violence)
+
 ---
 
 
