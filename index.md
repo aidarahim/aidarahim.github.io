@@ -2,6 +2,13 @@
 
 ---
 
+### Electrification of Transportation
+
+[EVs: Access and Opportunity](https://github.com/aidarahim/Electric_Vehicle_Access)
+<img src="images/html_maps_regs.gif"/>
+
+---
+
 ### NLP Classification 
 
 [When to Retrain ML Model?](https://github.com/aidarahim/Classification_Model_Retraining/tree/main/Classification_Model_Retraining)
